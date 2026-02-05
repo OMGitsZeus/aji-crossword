@@ -1,0 +1,21 @@
+{
+  "title": "Aji’s Crossword",
+  "puzzles": [
+    {
+      "id": "001",
+      "title": "#1 — English word square",
+      "subtitle": "HEART / EMBER / ABUSE / RESIN / TREND",
+      "size": "5×5",
+      "language": "EN",
+      "clues": 10
+    },
+    {
+      "id": "002",
+      "title": "#2 — Latin bonus square",
+      "subtitle": "SATOR / AREPO / TENET / OPERA / ROTAS",
+      "size": "5×5",
+      "language": "LA",
+      "clues": 10
+    }
+  ]
+}

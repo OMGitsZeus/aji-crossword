@@ -1,0 +1,152 @@
+{
+  "id": "001",
+  "title": "Aji’s Crossword • #1 (English)",
+  "subtitle": "A perfect 5×5 word square: every row is also a column.",
+  "grid": {
+    "rows": 5,
+    "cols": 5,
+    "blocks": []
+  },
+  "entries": [
+    {
+      "id": "a1",
+      "dir": "across",
+      "row": 0,
+      "col": 0,
+      "clue": "Core feeling; seat of emotions",
+      "answerCells": [
+        "H",
+        "E",
+        "A",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "a2",
+      "dir": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "Glowing coal or spark",
+      "answerCells": [
+        "E",
+        "M",
+        "B",
+        "E",
+        "R"
+      ]
+    },
+    {
+      "id": "a3",
+      "dir": "across",
+      "row": 2,
+      "col": 0,
+      "clue": "To misuse; also a harsh insult",
+      "answerCells": [
+        "A",
+        "B",
+        "U",
+        "S",
+        "E"
+      ]
+    },
+    {
+      "id": "a4",
+      "dir": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "Sticky substance from pine trees",
+      "answerCells": [
+        "R",
+        "E",
+        "S",
+        "I",
+        "N"
+      ]
+    },
+    {
+      "id": "a5",
+      "dir": "across",
+      "row": 4,
+      "col": 0,
+      "clue": "General direction or fashion",
+      "answerCells": [
+        "T",
+        "R",
+        "E",
+        "N",
+        "D"
+      ]
+    },
+    {
+      "id": "d1",
+      "dir": "down",
+      "row": 0,
+      "col": 0,
+      "clue": "Core feeling; seat of emotions",
+      "answerCells": [
+        "H",
+        "E",
+        "A",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "d2",
+      "dir": "down",
+      "row": 0,
+      "col": 1,
+      "clue": "Glowing coal or spark",
+      "answerCells": [
+        "E",
+        "M",
+        "B",
+        "E",
+        "R"
+      ]
+    },
+    {
+      "id": "d3",
+      "dir": "down",
+      "row": 0,
+      "col": 2,
+      "clue": "To misuse; also a harsh insult",
+      "answerCells": [
+        "A",
+        "B",
+        "U",
+        "S",
+        "E"
+      ]
+    },
+    {
+      "id": "d4",
+      "dir": "down",
+      "row": 0,
+      "col": 3,
+      "clue": "Sticky substance from pine trees",
+      "answerCells": [
+        "R",
+        "E",
+        "S",
+        "I",
+        "N"
+      ]
+    },
+    {
+      "id": "d5",
+      "dir": "down",
+      "row": 0,
+      "col": 4,
+      "clue": "General direction or fashion",
+      "answerCells": [
+        "T",
+        "R",
+        "E",
+        "N",
+        "D"
+      ]
+    }
+  ]
+}

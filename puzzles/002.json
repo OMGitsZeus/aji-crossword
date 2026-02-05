@@ -1,0 +1,152 @@
+{
+  "id": "002",
+  "title": "Aji’s Crossword • #2 (Latin bonus)",
+  "subtitle": "A classic 5×5 word square palindrome (historical).",
+  "grid": {
+    "rows": 5,
+    "cols": 5,
+    "blocks": []
+  },
+  "entries": [
+    {
+      "id": "a1",
+      "dir": "across",
+      "row": 0,
+      "col": 0,
+      "clue": "Classic word-square row 1 (Latin)",
+      "answerCells": [
+        "S",
+        "A",
+        "T",
+        "O",
+        "R"
+      ]
+    },
+    {
+      "id": "a2",
+      "dir": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "Classic word-square row 2 (Latin)",
+      "answerCells": [
+        "A",
+        "R",
+        "E",
+        "P",
+        "O"
+      ]
+    },
+    {
+      "id": "a3",
+      "dir": "across",
+      "row": 2,
+      "col": 0,
+      "clue": "Classic word-square row 3 (Latin)",
+      "answerCells": [
+        "T",
+        "E",
+        "N",
+        "E",
+        "T"
+      ]
+    },
+    {
+      "id": "a4",
+      "dir": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "Classic word-square row 4 (Latin)",
+      "answerCells": [
+        "O",
+        "P",
+        "E",
+        "R",
+        "A"
+      ]
+    },
+    {
+      "id": "a5",
+      "dir": "across",
+      "row": 4,
+      "col": 0,
+      "clue": "Classic word-square row 5 (Latin)",
+      "answerCells": [
+        "R",
+        "O",
+        "T",
+        "A",
+        "S"
+      ]
+    },
+    {
+      "id": "d1",
+      "dir": "down",
+      "row": 0,
+      "col": 0,
+      "clue": "Reads the same vertically (Latin)",
+      "answerCells": [
+        "S",
+        "A",
+        "T",
+        "O",
+        "R"
+      ]
+    },
+    {
+      "id": "d2",
+      "dir": "down",
+      "row": 0,
+      "col": 1,
+      "clue": "Reads the same vertically (Latin)",
+      "answerCells": [
+        "A",
+        "R",
+        "E",
+        "P",
+        "O"
+      ]
+    },
+    {
+      "id": "d3",
+      "dir": "down",
+      "row": 0,
+      "col": 2,
+      "clue": "Reads the same vertically (Latin)",
+      "answerCells": [
+        "T",
+        "E",
+        "N",
+        "E",
+        "T"
+      ]
+    },
+    {
+      "id": "d4",
+      "dir": "down",
+      "row": 0,
+      "col": 3,
+      "clue": "Reads the same vertically (Latin)",
+      "answerCells": [
+        "O",
+        "P",
+        "E",
+        "R",
+        "A"
+      ]
+    },
+    {
+      "id": "d5",
+      "dir": "down",
+      "row": 0,
+      "col": 4,
+      "clue": "Reads the same vertically (Latin)",
+      "answerCells": [
+        "R",
+        "O",
+        "T",
+        "A",
+        "S"
+      ]
+    }
+  ]
+}

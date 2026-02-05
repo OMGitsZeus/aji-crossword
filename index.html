@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aji’s Crossword</title>
+  <meta name="description" content="Aji’s Crossword — clue-based crosswords you can play in your browser." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <div class="brand">
+        <div class="mark" aria-hidden="true">🧩</div>
+        <div>
+          <div class="title">Aji’s Crossword</div>
+          <div class="tagline">Clue-based crosswords • clean layout • easy JSON updates</div>
+        </div>
+      </div>
+      <nav class="nav">
+        <a href="#/">Puzzles</a>
+        <a href="#/how">How it works</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" class="wrap" aria-live="polite"></main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div>© <span id="year"></span> Aji’s Crossword</div>
+      <div class="small">Add new puzzles by dropping a JSON file in <code>/puzzles</code> and updating <code>puzzles/index.json</code>.</div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
