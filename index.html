@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aji’s Crossword</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">अ</div>
+      <div>
+        <h1>Aji’s Crossword</h1>
+        <p class="subtitle">Marathi word-bank crosswords • offline-friendly • easy to update</p>
+      </div>
+    </div>
+    <nav class="nav">
+      <a href="#/">Puzzles</a>
+      <a href="#/about">About</a>
+    </nav>
+  </header>
+
+  <main id="app" class="container" aria-live="polite"></main>
+
+  <footer class="footer container">
+    <div>© <span id="year"></span> Aji’s Crossword</div>
+    <div class="muted">Tip: Add new puzzles by dropping a JSON file into <code>/puzzles</code> and updating <code>puzzles/index.json</code>.</div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

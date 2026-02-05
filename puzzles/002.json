@@ -1,0 +1,73 @@
+{
+  "id": "002",
+  "title": "Aji’s Crossword • #2",
+  "subtitle": "Mechanics demo (ASCII) — replace with Marathi when you’re ready.",
+  "updated": "2026-02-05",
+  "grid": {
+    "rows": 7,
+    "cols": 7,
+    "blocks": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        3
+      ]
+    ]
+  },
+  "solution": [
+    "MANGO.M",
+    "C.HOME.F",
+    "DOOR.JU.",
+    ".WATER..",
+    "A.VOICEW",
+    "T.HANK.Y",
+    "FRUIT.MO"
+  ],
+  "wordBank": [
+    "MANGO",
+    "MILK",
+    "HOME",
+    "FLOWER",
+    "DOOR",
+    "WATER",
+    "VOICE",
+    "THANKYOU",
+    "FRUIT",
+    "MOON"
+  ]
+}
